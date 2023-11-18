@@ -1,0 +1,39 @@
+
+.loginlogo{
+    width: 90px;
+    height: auto;
+    /* background-color: aqua; */
+    margin-top: 20vh;
+}
+
+.firstp{
+    color: #36A546CC;    
+}
+
+.loginpage>input{
+    width: 238px;
+    height: 42px;
+    margin-top: 20px;
+    color: antiquewhite;
+    font-weight: 800;
+    background: #1F191966 0% 0% no-repeat padding-box;
+    padding-left: 15px;
+    box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+    border: none;
+    border-radius: 30px;
+    outline: none;
+}
+
+.loginpage>button{
+    display: block;
+    margin-top: 30px;
+    width: 248px;
+    height: 45px;
+    /* border: none; */
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF8C;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    border: 2px solid #8CFF0026;
+}

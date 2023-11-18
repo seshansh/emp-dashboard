@@ -1,9 +1,12 @@
-import logo from './logo.svg';
+import Login from './section/auth/Login';
 import './App.css';
 
 function App() {
   return (
-    <div></div>
+    <center className='app'>
+      {/* <Login></Login> */}
+      
+    </center>
   );
 }
 
