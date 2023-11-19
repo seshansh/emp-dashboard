@@ -1,14 +1,14 @@
 import Login from './section/auth/Login';
-import Footer from './section/footer/Footer';
+import Screen from './section/screen/Screen';
 import './App.css';
-
 
 function App() {
   return (
     <center>
       {/* <Login></Login> */}
-      {/* <Footer></Footer> */}
+      <Screen />
     </center>
+      
   );
 }
 
